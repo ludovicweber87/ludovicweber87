@@ -5,9 +5,9 @@ Into AI-assisted engineering: agents, MCP, developer tooling.
 
 ### Stack
 
-`TypeScript` `React 19` `Next.js (App Router, RSC)` `MUI / Emotion` `TanStack Query`
-`Node.js` `Hono` `SQLite / Drizzle` `PostgreSQL` `React Native / Expo`
-`pnpm + Turborepo` `Vitest` `GitHub Actions` `Datadog` `GCP`
+`TypeScript` `React 19` `Next.js (App Router, RSC)` `MUI / Emotion` `TanStack Query`\
+`Node.js` `Hono` `SQLite / Drizzle` `PostgreSQL` `React Native / Expo`\
+`pnpm + Turborepo` `Vitest` `GitHub Actions` `Datadog` `GCP`\
 `Claude Code` `Claude Agent SDK` `MCP`
 
 ### Projects
