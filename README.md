@@ -1,7 +1,7 @@
 # Ludovic Weber
 
-Front-end engineer at [Evaneos](https://www.evaneos.com) (Odys, B2B SaaS). TypeScript, React, Next.js.
-Into AI-assisted engineering: agents, MCP, developer tooling.
+Software engineer at [Evaneos](https://www.evaneos.com) (Odys, B2B SaaS). TypeScript, React, Next.js, Node.js.
+AI-first: I ship with coding agents every day and build the tooling around them (Claude Agent SDK, MCP servers, multi-agent workflows).
 
 ### Stack
 
